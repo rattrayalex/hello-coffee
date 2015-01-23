@@ -1,0 +1,28 @@
+{
+  "name": "hello-coffee",
+  "version": "1.0.0",
+  "description": "examples",
+  "main": "index.js",
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "coffeeify": "^1.0.0",
+    "react": "^0.12.2"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "coffeeify": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/rattrayalex/hello-coffee"
+  },
+  "author": "Alex Rattray <rattray.alex@gmail.com> (http://alexrattray.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rattrayalex/hello-coffee/issues"
+  },
+  "homepage": "https://github.com/rattrayalex/hello-coffee"
+}
